@@ -28,6 +28,8 @@ In the config file you can add more hats or change the format and colors of the 
 [Click here to download](https://github.com/IT-KiLLER/CSGO-TOP-DEFENDERS/archive/master.zip)
 
 **Models and materials are not included.**
+## Thanks
+Thanks to [xZephire](https://github.com/xZephire) for his ideas and tests of the plugin.
 
 ## Change log
 - **1.0** - 2017-07-17
