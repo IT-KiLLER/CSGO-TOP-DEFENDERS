@@ -22,12 +22,14 @@ In the config file you can add more hats or change the format and colors of the 
   - `sm_top_defenders_hide_cooldown` `2.0` - *_How many **x** seconds the hat should be transparent. (0.0-10.0)_*
   - `sm_top_defenders_hide_angle` `-60.00` - *_The angle to hide the hat. (-180.0 - 180.0)._*
   - `sm_top_defenders_minium_damage` `500.00` - *_The total minimum damage for players to be listed. (1.0-5000.0)_*
-## Thanks
+## Creator and credit
+#### Created by me [IT-KiLLER](https://github.com/IT-KiLLER)
+
 Thanks to [xZephire](https://github.com/xZephire) for his ideas and tests of the plugin.
 
 ## Download
 
-[Click here to download](https://github.com/IT-KiLLER/CSGO-TOP-DEFENDERS/archive/master.zip)
+### [Click here to download (Plugin + Source code)](https://github.com/IT-KiLLER/CSGO-TOP-DEFENDERS/archive/master.zip)
 
 **Models and materials are not included.**
 
